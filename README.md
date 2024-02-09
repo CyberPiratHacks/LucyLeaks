@@ -43,6 +43,7 @@ Este script em Python utiliza a API do BreachDirectory para realizar consultas d
 
 - [David A. Mascaro](https://github.com/seuusuario)
 
+**NOTA: Eu não me responsabilizo pelo mau uso desta ferramenta. Utilize-a de maneira ética e legal.**
 
 # BreachDirectory API Python Script
 
