@@ -11,8 +11,13 @@ Este script em Python utiliza a API do BreachDirectory para realizar consultas d
 
 1. Substitua a variável `api_key` no script com a sua chave de API do RapidAPI.
 2. Execute o script usando o comando: `python3 script.py`.
-3. Insira o endereço de e-mail ou nome de usuario quando solicitado.
+3. Insira o endereço de e-mail quando solicitado.
 4. Visualize os resultados formatados e detalhes das violações de dados.
+
+## Versão para Windows
+
+- A versão para Windows é especialmente eficiente e não requer a instalação de nenhum pacote adicional.
+- Para usuários do Windows, o script pode ser executado diretamente no prompt de comando.
 
 ## Estrutura do Script
 
