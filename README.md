@@ -38,12 +38,11 @@ Este script em Python utiliza a API do BreachDirectory para realizar consultas d
 
 - Certifique-se de seguir as políticas de uso da API do BreachDirectory.
 - Este script é um exemplo educacional e pode ser aprimorado para atender a requisitos específicos.
+- Eu não me responsabilizo pelo mal uso desta ferramenta!
 
 ## Autor
 
 - [David A. Mascaro](https://github.com/seuusuario)
-
-**NOTA: Eu não me responsabilizo pelo mau uso desta ferramenta. Utilize-a de maneira ética e legal.**
 
 # BreachDirectory API Python Script
 
