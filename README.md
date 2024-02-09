@@ -19,6 +19,9 @@ Este script em Python utiliza a API do BreachDirectory para realizar consultas d
 - A versão para Windows é especialmente eficiente e não requer a instalação de nenhum pacote adicional.
 - Para usuários do Windows, o script pode ser executado diretamente no prompt de comando.
 
+**[Download da Versão para Windows](https://github.com/CyberPiratHacks/LucyLeaks/blob/main/LucyLeaks.rar)**
+
+
 ## Estrutura do Script
 
 - O script utiliza a biblioteca `http.client` para realizar solicitações à API.
