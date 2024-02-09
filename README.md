@@ -21,6 +21,7 @@ Este script em Python utiliza a API do BreachDirectory para realizar consultas d
 
 **[Download da Versão para Windows](https://github.com/CyberPiratHacks/LucyLeaks/blob/main/LucyLeaks.rar)**
 
+https://youtu.be/Mr3MZcSQbNE
 
 ## Estrutura do Script
 
