@@ -42,6 +42,54 @@ Este script em Python utiliza a API do BreachDirectory para realizar consultas d
 
 - [David A. Mascaro](https://github.com/seuusuario)
 
+
+# BreachDirectory API Python Script
+
+This Python script utilizes the BreachDirectory API to perform data breach queries using email addresses. It displays detailed information about passwords and hashes associated with the provided email, as well as the sources of the breaches.
+
+## Requirements
+
+- Python 3.x
+- Modules: `http.client`, `json`, `time`, `urllib.parse`
+
+## How to Use
+
+1. Replace the `api_key` variable in the script with your RapidAPI API key.
+2. Run the script using the command: `python3 script.py`.
+3. Enter the email address when prompted.
+4. View the formatted results and details of the data breaches.
+
+## Windows Version
+
+- The Windows version is particularly efficient and does not require the installation of any additional packages.
+- For Windows users, the script can be run directly from the command prompt.
+
+**[Download Windows Version](https://github.com/CyberPiratHacks/LucyLeaks/blob/main/LucyLeaks.rar)**
+
+## Script Structure
+
+- The script utilizes the `http.client` library to make requests to the API.
+- Results are displayed in a formatted manner, including emails, passwords, hashes, and sources.
+- The script handles redirections, rate limits, and request errors.
+
+## Customization
+
+- Modify colors in the script using ANSI escape codes to highlight results.
+- Customize the JSON output to meet your specific needs.
+
+## Notes
+
+- Ensure compliance with BreachDirectory API usage policies.
+- This script serves as an educational example and can be enhanced to meet specific requirements.
+
+## Author
+
+- [David A. Mascaro](https://github.com/yourusername)
+
+---
+
+**Developed by David A. Mascaro**
+
 ---
 
 **Desenvolvido por David A. Mascaro**
