@@ -11,8 +11,11 @@ Este script em Python utiliza a API do BreachDirectory para realizar consultas d
 
 1. Substitua a variável `api_key` no script com a sua chave de API do RapidAPI.
 2. Execute o script usando o comando: `python3 script.py`.
-3. Insira o endereço de e-mail quando solicitado.
+3. Insira o endereço de e-mail, username ou senha quando solicitado.
 4. Visualize os resultados formatados e detalhes das violações de dados.
+5. Use as flag -e, --email: Consultar um único endereço de e-mail, senha ou usuário.
+6. Use a flag -l, --lista: Consultar uma lista de endereços de e-mail, senhas ou usuários a partir de um arquivo.
+7. -h, --help: Exibir este menu de ajuda.
 
 ## Versão para Windows
 
@@ -57,15 +60,22 @@ This Python script utilizes the BreachDirectory API to perform data breach queri
 
 1. Replace the `api_key` variable in the script with your RapidAPI API key.
 2. Run the script using the command: `python3 script.py`.
-3. Enter the email address when prompted.
+3. Choose an option:
+    - Enter a single email address, password, or username.
+    - Load a list of email addresses, passwords, or usernames from a file.
 4. View the formatted results and details of the data breaches.
+5. Use the flag `-e, --email`: Query a single email address, password, or username.
+6. Use the flag `-l, --lista`: Query a list of email addresses, passwords, or usernames from a file.
+7. Use the flag `-h, --help`: Display this help menu.
 
 ## Windows Version
 
 - The Windows version is particularly efficient and does not require the installation of any additional packages.
-- For Windows users, the script can be run directly from the command prompt.
+- For Windows users, the script can be run directly from the executable.
 
 **[Download Windows Version](https://github.com/CyberPiratHacks/LucyLeaks/blob/main/LucyLeaks.rar)**
+
+[![How to Use](https://img.youtube.com/vi/Mr3MZcSQbNE/maxresdefault.jpg)](https://youtu.be/Mr3MZcSQbNE)
 
 ## Script Structure
 
@@ -82,15 +92,8 @@ This Python script utilizes the BreachDirectory API to perform data breach queri
 
 - Ensure compliance with BreachDirectory API usage policies.
 - This script serves as an educational example and can be enhanced to meet specific requirements.
+- I do not take responsibility for the misuse of this tool!
 
 ## Author
 
-- [David A. Mascaro](https://github.com/yourusername)
-
----
-
-**Developed by David A. Mascaro**
-
----
-
-**Desenvolvido por David A. Mascaro**
+- [David A. Mascaro](https://github.com/seuusuario)
