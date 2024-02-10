@@ -7,6 +7,11 @@ Este script em Python utiliza a API do BreachDirectory para realizar consultas d
 - Python 3.x
 - Módulos: `http.client`, `json`, `time`, `urllib.parse`
 
+## Como Instalar
+
+Apenas baixe e execute o **lucyinstaller.sh**
+Todo o resto sera feito.
+
 ## Como usar
 
 1. Substitua a variável `api_key` no script com a sua chave de API do RapidAPI.
